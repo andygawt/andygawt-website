@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media - Andrew Gawthorpe</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="site-title">Andrew Gawthorpe</a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="scholarship.html">Scholarship</a></li>
+                    <li><a href="media.html" class="active">Media</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <h1>Media & Commentary</h1>
+
+        <p>Selected media appearances, opinion articles, and public commentary on U.S. politics and foreign policy.</p>
+
+        <div class="media-filters">
+            <label for="year-filter">Filter by year:</label>
+            <select id="year-filter">
+                <option value="all">All years</option>
+                <option value="2026">2026</option>
+                <option value="2025">2025</option>
+                <option value="2024">2024</option>
+                <option value="2023">2023</option>
+            </select>
+
+            <label for="type-filter">Filter by type:</label>
+            <select id="type-filter">
+                <option value="all">All types</option>
+                <option value="article">Articles</option>
+                <option value="quote">Quotes</option>
+                <option value="interview">Interviews</option>
+                <option value="podcast">Podcasts</option>
+                <option value="tv">TV</option>
+            </select>
+        </div>
+
+        <div id="media-feed">
+            <!-- Media items will be loaded here by JavaScript -->
+            <p>Loading media items...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Andrew Gawthorpe. All rights reserved.</p>
+    </footer>
+
+    <script src="js/media.js"></script>
+</body>
+</html>
