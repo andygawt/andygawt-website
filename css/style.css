@@ -234,6 +234,13 @@ footer {
   color: var(--text-light);
 }
 
+.publication-description {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
 /* Book Page */
 .book-cover {
   max-width: 300px;
