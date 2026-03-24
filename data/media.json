@@ -8,6 +8,14 @@
     "description": "Interviewed on US military deployment to Middle East"
   },
   {
+    "date": "2026-03-11",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Trump says the Iran war will end 'very soon' – but it is not clear how",
+    "url": "https://theconversation.com/trump-says-the-iran-war-will-end-very-soon-but-it-is-not-clear-how-278036",
+    "description": ""
+  },
+  {
     "date": "2026-03-12",
     "type": "interview",
     "outlet": "Sydney Morning Herald",
@@ -24,6 +32,14 @@
     "description": "Interview feature on Iranian drone threats"
   },
   {
+    "date": "2026-03-04",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "How prepared are the US and its allies for a protracted conflict in Iran?",
+    "url": "https://theconversation.com/how-prepared-are-the-us-and-its-allies-for-a-protracted-conflict-in-iran-277454",
+    "description": ""
+  },
+  {
     "date": "2026-02-26",
     "type": "interview",
     "outlet": "France 24",
@@ -32,7 +48,23 @@
     "description": "Interviewed on Trump's ambassadorial appointments"
   },
   {
-    "date": "2026-01-15",
+    "date": "2026-02-24",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Trump's plan for strikes on Iran carries major risks – and the US military knows it",
+    "url": "https://theconversation.com/trumps-plan-for-strikes-on-iran-carries-major-risks-and-the-us-military-knows-it-276775",
+    "description": ""
+  },
+  {
+    "date": "2026-01-26",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Shooting of Alex Pretti in Minneapolis has put America's gun lobby at odds with the White House",
+    "url": "https://theconversation.com/shooting-of-alex-pretti-in-minneapolis-has-put-americas-gun-lobby-at-odds-with-the-white-house-274343",
+    "description": ""
+  },
+  {
+    "date": "2026-01-03",
     "type": "article",
     "outlet": "The Conversation",
     "title": "US snatches Maduro in raid in Caracas: What we know so far",
