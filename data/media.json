@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-03-18",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Avec l'envoi de l'USS Tripoli et ses marines au Moyen-Orient, une opération au sol se profile-t-elle ?",
+    "url": "https://www.france24.com/fr/moyen-orient/20260318-uss-tripoli-et-ses-marines-au-moyen-orient-futurs-combats-au-sol-iran-ormuz",
+    "description": "Interviewed on US military deployment to Middle East"
+  },
+  {
+    "date": "2026-03-12",
+    "type": "interview",
+    "outlet": "Sydney Morning Herald",
+    "title": "A widening war: How the Trump-Iran conflict is redrawing the global map",
+    "url": "https://www.smh.com.au/world/middle-east/a-widening-war-how-the-trump-iran-conflict-is-redrawing-the-global-map-20260312-p5o9va.html",
+    "description": "Interviewed on Trump-Iran conflict"
+  },
+  {
+    "date": "2026-03-05",
+    "type": "interview",
+    "outlet": "Libération",
+    "title": "Guerre au Moyen-Orient : les drones iraniens risquent de poser de très gros problèmes à court terme",
+    "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-drones-iraniens-risquent-de-poser-de-tres-gros-problemes-a-court-terme-20260305_HSPMLJK7SRH6XMRLCNXUIA77GM/",
+    "description": "Interview feature on Iranian drone threats"
+  },
+  {
+    "date": "2026-02-26",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Amateur hour: Trump ambassadors raise tensions across Europe",
+    "url": "https://www.france24.com/en/europe/20260226-amateur-hour-trump-ambassadors-stir-tensions-across-europe",
+    "description": "Interviewed on Trump's ambassadorial appointments"
+  },
+  {
     "date": "2026-01-15",
     "type": "article",
     "outlet": "The Conversation",
