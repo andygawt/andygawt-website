@@ -40,6 +40,46 @@
     "description": ""
   },
   {
+    "date": "2026-01-08",
+    "type": "interview",
+    "outlet": "Time",
+    "title": "How the U.K. Helped the U.S. Seize a Russian-Flagged Tanker—and Why It's Important",
+    "url": "https://time.com/7344656/united-kingdom-helped-united-states-trump-seize-oil-tankers/",
+    "description": "Interviewed on UK support for US tanker seizure"
+  },
+  {
+    "date": "2026-01-07",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Référendum, statut, prix : comment les États-Unis entendent-ils acheter le Groenland ?",
+    "url": "https://www.france24.com/fr/am%C3%A9riques/20260107-trump-groenland-rachat-danemark-militaire-prix",
+    "description": "Interviewed on Trump's Greenland acquisition plans"
+  },
+  {
+    "date": "2025-12-17",
+    "type": "interview",
+    "outlet": "Knack",
+    "title": "MAGA is niet langer mega: Overleeft Donald Trump's populistische beweging zijn tweede presidentschap?",
+    "url": "https://www.knack.be/nieuws/wereld/maga-is-niet-langer-mega-overleeft-donald-trumps-populistische-beweging-zijn-tweede-presidentschap/",
+    "description": "Interviewed on Trump's populist movement"
+  },
+  {
+    "date": "2025-12-03",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Comment une fraude au Minnesota sert d'argument à Trump pour viser les Somaliens",
+    "url": "https://www.france24.com/fr/am%C3%A9riques/20251203-comment-une-fraude-au-minnesota-sert-d-argument-%C3%A0-trump-pour-viser-les-somaliens",
+    "description": "Interviewed on Trump targeting Somali Americans"
+  },
+  {
+    "date": "2025-11-06",
+    "type": "interview",
+    "outlet": "BBC",
+    "title": "Trump wants South Africa out of the G20 as it gears up for world summit",
+    "url": "https://www.bbc.com/news/articles/cy0kdvlwl9jo",
+    "description": "Interviewed on Trump and G20"
+  },
+  {
     "date": "2025-12-17",
     "type": "article",
     "outlet": "The Conversation",
