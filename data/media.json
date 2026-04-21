@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-04-21",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "How US presidents shift controversial actions abroad to get around limits at home",
+    "url": "https://theconversation.com/how-us-presidents-shift-controversial-actions-abroad-to-get-around-limits-at-home-280769",
+    "description": "Analysis of presidential extra-territorialization"
+  },
+  {
+    "date": "2026-04-21",
     "type": "interview",
     "outlet": "France 24",
     "title": "Iran : Donald Trump n'en est plus à une contradiction près pour sauver la face",
