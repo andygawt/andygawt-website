@@ -1,11 +1,27 @@
 [
   {
     "date": "2026-05-13",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Trump‑Xi summit: US president says he will discuss arms sales to Taiwan – breaking decades of US policy",
+    "url": "https://theconversation.com/trump-xi-summit-us-president-says-he-will-discuss-arms-sales-to-taiwan-breaking-decades-of-us-policy-282894",
+    "description": ""
+  },
+  {
+    "date": "2026-05-13",
     "type": "interview",
     "outlet": "Latin America Reports",
     "title": "Spectre of Venezuelan-style regime change grows in Cuba despite Trump promise of U.S.-Cuba talks",
     "url": "https://latinamericareports.com/spectre-of-venezuelan-style-regime-change-grows-in-cuba-despite-trump-promise-of-u-s-cuba-talks/14417/",
     "description": "Quoted on Cuba regime change and US policy"
+  },
+  {
+    "date": "2026-05-06",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "US declares war in Iran 'over' to avoid row with Congress over whether it was legal",
+    "url": "https://theconversation.com/us-declares-war-in-iran-over-to-avoid-row-with-congress-over-whether-it-was-legal-282159",
+    "description": ""
   },
   {
     "date": "2026-04-21",
