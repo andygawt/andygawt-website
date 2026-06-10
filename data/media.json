@@ -1,11 +1,27 @@
 [
   {
+    "date": "2026-06-10",
+    "type": "interview",
+    "outlet": "Arab News",
+    "title": "Analysis: How long can Iran's regime fight on?",
+    "url": "https://www.arabnews.com/node/2646579/middle-east",
+    "description": "Quoted on Iran's strategic position and US-Iran negotiations"
+  },
+  {
     "date": "2026-06-08",
     "type": "article",
     "outlet": "The Conversation",
     "title": "Iran's attacks on Israel were an attempt to shape the region on its own terms – and it might just do so",
     "url": "https://theconversation.com/irans-attacks-on-israel-were-an-attempt-to-shape-the-region-on-its-own-terms-and-it-might-just-do-so-284742",
     "description": ""
+  },
+  {
+    "date": "2026-06-01",
+    "type": "interview",
+    "outlet": "Time",
+    "title": "Trump Says He 'Couldn't Care Less' If Peace Talks With Iran Fall Apart After Countries Exchange Renewed Strikes",
+    "url": "https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/",
+    "description": "Quoted on US-Iran cease-fire fragility and Strait of Hormuz negotiations"
   },
   {
     "date": "2026-05-13",
