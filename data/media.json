@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-15",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Donald Trump is running out of options in Iran",
+    "url": "https://theconversation.com/donald-trump-is-running-out-of-options-in-iran-287525",
+    "description": ""
+  },
+  {
+    "date": "2026-07-08",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Pourquoi Donald Trump s'entête à vouloir vendre des F-35 à la Turquie",
+    "url": "https://www.france24.com/fr/europe/20260708-pourquoi-donald-trump-s-ent%C3%AAte-%C3%A0-vouloir-vendre-des-f-35-%C3%A0-la-turquie",
+    "description": "Quoted on Trump's F-35 sales to Turkey"
+  },
+  {
+    "date": "2026-06-18",
+    "type": "article",
+    "outlet": "The Conversation",
+    "title": "Why US presidents end up cursing Benjamin Netanyahu",
+    "url": "https://theconversation.com/why-us-presidents-end-up-cursing-benjamin-netanyahu-285285",
+    "description": ""
+  },
+  {
     "date": "2026-06-17",
     "type": "interview",
     "outlet": "NU.nl",
