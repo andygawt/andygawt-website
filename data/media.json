@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-25",
+    "type": "interview",
+    "outlet": "France 24",
+    "title": "Guerre commerciale : face à Trump, le Canada défend la langue française et sa souveraineté",
+    "url": "https://www.france24.com/fr/am%C3%A9riques/20260825-guerre-commerciale-face-%C3%A0-trump-le-canada-d%C3%A9fend-la-langue-fran%C3%A7aise-et-sa-souverainet%C3%A9",
+    "description": "Quoted on Trump-Canada trade war and sovereignty"
+  },
+  {
+    "date": "2026-08-24",
+    "type": "interview",
+    "outlet": "NBC News",
+    "title": "Bessent threatens new Iran secondary sanctions, says Trump is asking world leaders to cooperate",
+    "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
+    "description": "Quoted on Trump's Iran sanctions strategy"
+  },
+  {
+    "date": "2026-08-22",
+    "type": "interview",
+    "outlet": "NPR",
+    "title": "Foreign policy expert Andrew Gawthorpe on Trump's new financial war on Iran",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5938072/foreign-policy-expert-andrew-gawthorpe-on-trumps-new-financial-war-on-iran",
+    "description": "Interviewed on Trump's financial warfare strategy against Iran"
+  },
+  {
     "date": "2026-07-25",
     "type": "interview",
     "outlet": "NU.nl",
